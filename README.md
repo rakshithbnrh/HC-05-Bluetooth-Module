@@ -6,8 +6,8 @@ Here We are using Arduino UNO
 -----------------------------------------------------------
 Steps
 -----------------------------------------------------------
-Step1: Arduino  Bluetooth
-
+Step1: 
+       Arduino  Bluetooth
          TX       TX
          RX       RX
          5V       VCC
