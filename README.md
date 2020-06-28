@@ -6,7 +6,8 @@ Here We are using Arduino UNO
 -----------------------------------------------------------
 Steps
 -----------------------------------------------------------
-Step1: 
+Step1: Arduino and Bluetooth Connection
+       
        Arduino  Bluetooth
          TX       TX
          RX       RX
@@ -51,11 +52,12 @@ AT+BIND=18,E4,400006
 
 --------------------------------------------------------------
 
-Step4: Arduino  Bluetooth
+Step4: Arduino and Bluetooth Connection 
 
+       Arduino  Bluetooth
          TX       RX
          RX       TX
          5V       VCC
          Gnd      Gnd
          
-Step5: Upload code
+
